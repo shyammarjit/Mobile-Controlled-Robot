@@ -1,4 +1,4 @@
-# Obstacle_avoidance_algo
+# Obstacle_Avoidance_Algo
 --------------------------------------------------------------------------------------------------------------------------
 YouTube Link of the video. In this video, I represented the working principles of this WiFi-Controlled-Robot.
 --------------------------------------------------------------------------------------------------------------------------
