@@ -12,8 +12,7 @@ forward motion,
 left turning,
 right turning,
 device control
-and at the last, there is a "get data" button. 
-This Robot is enhanced with the IoT features, it's capable of detecting obstacles, it can measure the collision distance and provide those data to us. 
+and at the last, there is a "get data" button.
 -----------------------------------------------------------------------------------------------------------------------
 I am giving My thanks to<br/>
 [Prof. Laxmidhar Behera](https://home.iitk.ac.in/~lbehera/)<br/>
