@@ -16,9 +16,8 @@ and at the last, there is a "get data" button.
 This Robot is enhanced with the IoT features, it's capable of detecting obstacles, it can measure the collision distance and provide those data to us. 
 -----------------------------------------------------------------------------------------------------------------------
 I am giving My thanks to
-prof. Laxmidhar Behera,
-prof. Vipul Arora,
+[Prof. Laxmidhar Behera](https://home.iitk.ac.in/~lbehera/)<br/>
+[Asst. prof. Vipul Arora]()<br/>
 Dr. Sandeep Gupta.
 I had a great experience working with you all and would be delighted to work with you in future also.
-I will take your leave now. Have a good day!
 --------------------------------------------------------------------------------------------------------------------------
