@@ -17,7 +17,7 @@ This Robot is enhanced with the IoT features, it's capable of detecting obstacle
 -----------------------------------------------------------------------------------------------------------------------
 I am giving My thanks to
 [Prof. Laxmidhar Behera](https://home.iitk.ac.in/~lbehera/)<br/>
-[Asst. prof. Vipul Arora]()<br/>
+[Asst. prof. Vipul Arora](https://vipular.github.io/)<br/>
 Dr. Sandeep Gupta.
 I had a great experience working with you all and would be delighted to work with you in future also.
 --------------------------------------------------------------------------------------------------------------------------
