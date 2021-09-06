@@ -15,9 +15,9 @@ device control
 and at the last, there is a "get data" button. 
 This Robot is enhanced with the IoT features, it's capable of detecting obstacles, it can measure the collision distance and provide those data to us. 
 -----------------------------------------------------------------------------------------------------------------------
-I am giving My thanks to
+I am giving My thanks to<br/>
 [Prof. Laxmidhar Behera](https://home.iitk.ac.in/~lbehera/)<br/>
 [Asst. prof. Vipul Arora](https://vipular.github.io/)<br/>
-Dr. Sandeep Gupta.
+Dr. Sandeep Gupta.<br/>
 I had a great experience working with you all and would be delighted to work with you in future also.
 --------------------------------------------------------------------------------------------------------------------------
