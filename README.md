@@ -10,7 +10,6 @@ left turning,
 right turning,
 device control
 and at the last, there is a "get data" button.
------------------------------------------------------------------------------------------------------------------------
 
 [Prof. Laxmidhar Behera](https://home.iitk.ac.in/~lbehera/)<br/>
 [Asst. prof. Vipul Arora](https://vipular.github.io/)<br/>
